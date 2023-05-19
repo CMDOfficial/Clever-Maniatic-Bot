@@ -44,4 +44,4 @@ We reserve the right to permanently block you from our services, deny support an
 if you do not agree with any of these **Terms of Service (ToS),** 
 then you are totally prohibited from using our services and must discontinue the use of our service immediately.
 
-
+### Fond Regards, Vincenzoツ™#5254 [Developer]
