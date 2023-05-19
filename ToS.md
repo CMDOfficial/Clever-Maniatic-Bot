@@ -1,5 +1,8 @@
 # Terms of Service (ToS) 
 
+#### Effective: May 18, 2023
+#### Last Updated: May 19, 2023
+
 ## The Gist
 
 We (the folks at Clever Maniatic Discorders™) are on a mission to make Discord a better place. 
@@ -28,6 +31,10 @@ You must'nt be under the minimum age requirement issued by Discord,
 You’re not allowed to access or use our Services if you’re under the minimum age requirement issued by Discord. 
 
 You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
+
+If you have any concerns you can contact us in our [Support Server](https://discord.gg/hMPmc6mWgP).
+
+Get in touch with us via E-mail: [clevermaniaticdiscorders@gmail.com](mailto:clevermaniaticdiscorders@gmail.com)
 
 You have the right to use our service as long as you don't use it in any way that would break Discord's ToS or the rules of the guild (server) you're in.
 We reserve the right to permanently block you from our services, deny support and/or services or report you to discord authority.
