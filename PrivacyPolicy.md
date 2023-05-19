@@ -62,6 +62,10 @@ This data may be collected when authorizing an application, such as when logging
 All stored data is kept on protected servers. While storage methods vary, most data is kept within password-protected databases such as [MongoDB](https://www.mongodb.com).
 Please keep in mind that even with these protections, no data can ever be **100%** secure. All efforts are taken to keep your data secure and private, but its absolute security cannot be guaranteed.
 
+### Do we share data with third parties?
+
+We do not share any data with third parties.
+
 ### Your data protection rights under the GENERAL DATA PROTECTION REGULATION (GDPR)
 
 If you are a resident of the European Economic Area (EEA), you have certain data protection rights. 
